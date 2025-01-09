@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+
+# npm debug files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output (if any)
+dist/
+build/
+
+# Coverage reports (if using testing libraries like Jest or Mocha)
+coverage/
+
+# Other temporary files
+*.tgz
